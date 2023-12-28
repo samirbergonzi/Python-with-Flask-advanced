@@ -1,6 +1,6 @@
 # Flask To-Do App
 
-![Flask Logo](flask-logo.png)
+![Flask Logo](flask_logo.jpg)
 
 ## Overview
 
@@ -35,10 +35,6 @@ This is an advanced Flask application implementing a To-Do list with CRUD operat
 - View tasks on the homepage.
 - Add a new task using the form.
 - Complete or delete tasks using the provided links.
-
-## Screenshots
-
-![Web App](screenshot.png)
 
 ## License
 
