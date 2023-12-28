@@ -1,6 +1,6 @@
 # Flask To-Do App
 
-![Flask Logo](flask_logo.jpg)
+![Flask Logo](python_flask.JPG)
 
 ## Overview
 
